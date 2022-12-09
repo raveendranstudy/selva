@@ -1,0 +1,9 @@
+{
+	"name": "ravistudyadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f1ecdbba-7c00-46f1-858a-a87a66f60902",
+		"tenantId": "37fd29e5-10c9-41dc-bfa1-1d9d0a964899"
+	}
+}
