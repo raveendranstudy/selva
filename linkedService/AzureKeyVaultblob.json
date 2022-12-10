@@ -1,0 +1,10 @@
+{
+	"name": "AzureKeyVaultblob",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://ravistudyakv.vault.azure.net/"
+		}
+	}
+}
